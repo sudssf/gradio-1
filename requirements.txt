@@ -1,0 +1,12 @@
+certifi
+duckdb
+pycparser
+pydantic
+python-docx
+python-pptx
+pyyaml
+requests
+chromadb
+langchain
+PyMuPDF
+sentence_transformers
